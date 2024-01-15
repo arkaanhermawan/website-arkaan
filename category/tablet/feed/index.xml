@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Tablet &#8211; iFruit</title>
+	<atom:link href="https://arkaanhermawan.github.io/website-arkaan/category/tablet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<description>Be Unique and Different</description>
+	<lastBuildDate>Thu, 11 Jan 2024 02:40:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/icon.jpg</url>
+	<title>Tablet &#8211; iFruit</title>
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tablet</title>
+		<link>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/tablet/</link>
+					<comments>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/tablet/#respond</comments>
+		
+		<dc:creator><![CDATA[arkaan_hermawan]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 02:32:09 +0000</pubDate>
+				<category><![CDATA[Tablet]]></category>
+		<guid isPermaLink="false">https://arkaanhermawan.github.io/website-arkaan/?p=121</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><ul class="products columns-3">
+<li class="product type-product post-62 status-publish first instock product_cat-tablet has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img fetchpriority="high" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/16.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Pad 2</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>6.999</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>2.500</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-2/?add-to-cart=62" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="62" data-product_sku="iFruit Pad 2 Hitam 16 GB" aria-label="Add to cart: &ldquo;iFruit Pad 2&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Pad 2" data-price="2500">Add to cart</a></li>
+<li class="product type-product post-71 status-publish instock product_cat-tablet has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-air/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/20.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">IFruit Pad Air</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>8.999</bdi></span></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-air/?add-to-cart=71" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="71" data-product_sku="iFruit Pad Air Putih 64 GB" aria-label="Add to cart: &ldquo;IFruit Pad Air&rdquo;" aria-describedby="" rel="nofollow" data-product_name="IFruit Pad Air" data-price="8999">Add to cart</a></li>
+<li class="product type-product post-65 status-publish last instock product_cat-tablet has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-mini-6/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/17.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Pad Mini 6</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>8.999</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>6.999</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-mini-6/?add-to-cart=65" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="65" data-product_sku="iFruit Pad Mini 6 Abu-abu 64 GB" aria-label="Add to cart: &ldquo;iFruit Pad Mini 6&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Pad Mini 6" data-price="6999">Add to cart</a></li>
+<li class="product type-product post-67 status-publish first instock product_cat-tablet has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-pro-m1/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img loading="lazy" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/18.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Pad Pro M1</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>16.500</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>12.300</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-pro-m1/?add-to-cart=67" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="67" data-product_sku="iFruit Pad Pro M1 Putih 128 GB" aria-label="Add to cart: &ldquo;iFruit Pad Pro M1&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Pad Pro M1" data-price="12300">Add to cart</a></li>
+<li class="product type-product post-69 status-publish instock product_cat-tablet has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-pro-m2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/19.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Pad Pro M2</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>15.000</bdi></span></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-pad-pro-m2/?add-to-cart=69" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="69" data-product_sku="iFruit Pad M2 Putih 128 GB" aria-label="Add to cart: &ldquo;iFruit Pad Pro M2&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Pad Pro M2" data-price="15000">Add to cart</a></li>
+</ul>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/tablet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

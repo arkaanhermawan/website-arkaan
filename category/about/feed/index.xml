@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>About &#8211; iFruit</title>
+	<atom:link href="https://arkaanhermawan.github.io/website-arkaan/category/about/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<description>Be Unique and Different</description>
+	<lastBuildDate>Thu, 11 Jan 2024 18:25:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/icon.jpg</url>
+	<title>About &#8211; iFruit</title>
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>About</title>
+		<link>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/about/</link>
+					<comments>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/about/#respond</comments>
+		
+		<dc:creator><![CDATA[arkaan_hermawan]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 03:49:31 +0000</pubDate>
+				<category><![CDATA[About]]></category>
+		<guid isPermaLink="false">https://arkaanhermawan.github.io/website-arkaan/?p=154</guid>
+
+					<description><![CDATA[Nama : Arkaan Zachary Hermawan NIM : 220102018 Kelas : IF-22-B]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Nama : Arkaan Zachary Hermawan</strong></p>
+
+
+
+<p><strong>NIM : 220102018</strong></p>
+
+
+
+<p><strong>Kelas : IF-22-B</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/about/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

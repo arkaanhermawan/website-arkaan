@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Mobile Phone &#8211; iFruit</title>
+	<atom:link href="https://arkaanhermawan.github.io/website-arkaan/category/mobile-phone/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<description>Be Unique and Different</description>
+	<lastBuildDate>Thu, 11 Jan 2024 03:57:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/icon.jpg</url>
+	<title>Mobile Phone &#8211; iFruit</title>
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mobile Phone</title>
+		<link>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/mobile-phone/</link>
+					<comments>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/mobile-phone/#respond</comments>
+		
+		<dc:creator><![CDATA[arkaan_hermawan]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 02:19:57 +0000</pubDate>
+				<category><![CDATA[Mobile Phone]]></category>
+		<guid isPermaLink="false">https://arkaanhermawan.github.io/website-arkaan/?p=118</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><ul class="products columns-3">
+<li class="product type-product post-29 status-publish first instock product_cat-mobile-phone has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-11/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img fetchpriority="high" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/3.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit 11</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>9.999</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>6.999</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-11/?add-to-cart=29" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="29" data-product_sku="iFruit 11 Hitam 64 GB" aria-label="Add to cart: &ldquo;iFruit 11&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit 11" data-price="6999">Add to cart</a></li>
+<li class="product type-product post-35 status-publish instock product_cat-mobile-phone has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/35/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/4.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit 13</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>14.999</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>12.500</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/35/?add-to-cart=35" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="35" data-product_sku="iFruit 13 Hitam 128 GB" aria-label="Add to cart: &ldquo;iFruit 13&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit 13" data-price="12500">Add to cart</a></li>
+<li class="product type-product post-18 status-publish last instock product_cat-mobile-phone has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-4s/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit 4s</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>7.699</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>550</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-4s/?add-to-cart=18" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="18" data-product_sku="iFruit 4s Hitam 16 GB" aria-label="Add to cart: &ldquo;iFruit 4s&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit 4s" data-price="550">Add to cart</a></li>
+<li class="product type-product post-20 status-publish first instock product_cat-mobile-phone has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-5/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img loading="lazy" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit 5</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>9.999</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>1.500</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-5/?add-to-cart=20" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="20" data-product_sku="iFruit 5 Hitam 16 GB" aria-label="Add to cart: &ldquo;iFruit 5&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit 5" data-price="1500">Add to cart</a></li>
+<li class="product type-product post-37 status-publish instock product_cat-mobile-phone has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-6s/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img loading="lazy" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/5.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit 6s</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>9.899</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>1.800</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-6s/?add-to-cart=37" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="37" data-product_sku="iFruit 6s Hitam 32 GB" aria-label="Add to cart: &ldquo;iFruit 6s&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit 6s" data-price="1800">Add to cart</a></li>
+</ul>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/mobile-phone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

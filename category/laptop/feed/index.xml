@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Laptop &#8211; iFruit</title>
+	<atom:link href="https://arkaanhermawan.github.io/website-arkaan/category/laptop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<description>Be Unique and Different</description>
+	<lastBuildDate>Thu, 11 Jan 2024 02:39:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/icon.jpg</url>
+	<title>Laptop &#8211; iFruit</title>
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Laptop</title>
+		<link>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/laptop/</link>
+					<comments>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/laptop/#respond</comments>
+		
+		<dc:creator><![CDATA[arkaan_hermawan]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 02:33:53 +0000</pubDate>
+				<category><![CDATA[Laptop]]></category>
+		<guid isPermaLink="false">https://arkaanhermawan.github.io/website-arkaan/?p=123</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><ul class="products columns-3">
+<li class="product type-product post-45 status-publish first instock product_cat-laptop has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-air-2011/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img fetchpriority="high" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/8.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Laptop Air 2011</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>13.999</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>3.000</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-air-2011/?add-to-cart=45" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="45" data-product_sku="iFruit Laptop Air 11 Abu-abu 64 GB" aria-label="Add to cart: &ldquo;iFruit Laptop Air 2011&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Laptop Air 2011" data-price="3000">Add to cart</a></li>
+<li class="product type-product post-39 status-publish instock product_cat-laptop has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-air/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/6.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Laptop Air 2013</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>14.000</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>5.000</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-air/?add-to-cart=39" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="39" data-product_sku="iFruit Laptop Air 2013 Abu-abu 256 GB" aria-label="Add to cart: &ldquo;iFruit Laptop Air 2013&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Laptop Air 2013" data-price="5000">Add to cart</a></li>
+<li class="product type-product post-42 status-publish last instock product_cat-laptop has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-air-2017/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/7.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Laptop Air 2017</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>17.300</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>8.000</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-air-2017/?add-to-cart=42" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="42" data-product_sku="iFruit Laptop Air 2017 Abu-abu 256 GB" aria-label="Add to cart: &ldquo;iFruit Laptop Air 2017&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Laptop Air 2017" data-price="8000">Add to cart</a></li>
+<li class="product type-product post-48 status-publish first instock product_cat-laptop has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-pro-m1-2020/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img loading="lazy" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/9.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Laptop Pro M1 2020</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>21.999</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>13.800</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-pro-m1-2020/?add-to-cart=48" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="48" data-product_sku="iFruit Laptop Pro M1 2020 Abu-abu 256 GB" aria-label="Add to cart: &ldquo;iFruit Laptop Pro M1 2020&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Laptop Pro M1 2020" data-price="13800">Add to cart</a></li>
+<li class="product type-product post-50 status-publish instock product_cat-laptop has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-pro-m2-2022/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img loading="lazy" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/10.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Laptop Pro M2 2022</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>21.999</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>18.000</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-laptop-pro-m2-2022/?add-to-cart=50" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="50" data-product_sku="iFruit Laptop Pro M2 2022 Abu-abu 256 GB" aria-label="Add to cart: &ldquo;iFruit Laptop Pro M2 2022&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Laptop Pro M2 2022" data-price="18000">Add to cart</a></li>
+</ul>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/laptop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

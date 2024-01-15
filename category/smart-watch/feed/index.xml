@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Smart Watch &#8211; iFruit</title>
+	<atom:link href="https://arkaanhermawan.github.io/website-arkaan/category/smart-watch/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<description>Be Unique and Different</description>
+	<lastBuildDate>Thu, 11 Jan 2024 02:38:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/icon.jpg</url>
+	<title>Smart Watch &#8211; iFruit</title>
+	<link>https://arkaanhermawan.github.io/website-arkaan</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Smart Watch</title>
+		<link>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/smart-watch/</link>
+					<comments>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/smart-watch/#respond</comments>
+		
+		<dc:creator><![CDATA[arkaan_hermawan]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2024 02:35:54 +0000</pubDate>
+				<category><![CDATA[Smart Watch]]></category>
+		<guid isPermaLink="false">https://arkaanhermawan.github.io/website-arkaan/?p=125</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><ul class="products columns-3">
+<li class="product type-product post-60 status-publish first instock product_cat-smart-watch has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-watch-7/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img fetchpriority="high" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/15.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Watch 7</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>8.499</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>4.999</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-watch-7/?add-to-cart=60" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="60" data-product_sku="iFruit Watch 7 Aluminium 32 GB" aria-label="Add to cart: &ldquo;iFruit Watch 7&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Watch 7" data-price="4999">Add to cart</a></li>
+<li class="product type-product post-54 status-publish instock product_cat-smart-watch has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-watch-8/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/12.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Watch 8</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>8.499</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>6.499</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-watch-8/?add-to-cart=54" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="54" data-product_sku="iFruit Watch 8 Aluminium 45 mm 32 GB" aria-label="Add to cart: &ldquo;iFruit Watch 8&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Watch 8" data-price="6499">Add to cart</a></li>
+<li class="product type-product post-58 status-publish last instock product_cat-smart-watch has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-watch-se/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/14.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Watch SE</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>5.999</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>3.899</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-watch-se/?add-to-cart=58" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="58" data-product_sku="iFruit Watch SE Aluminium 32 GB" aria-label="Add to cart: &ldquo;iFruit Watch SE&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Watch SE" data-price="3899">Add to cart</a></li>
+<li class="product type-product post-52 status-publish first instock product_cat-smart-watch has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-watch-ultra/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img loading="lazy" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/11.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Watch Ultra</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>16.000</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>9.666</bdi></span></ins></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/ifruit-watch-ultra/?add-to-cart=52" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="52" data-product_sku="iFruit Watch Ultra Titanium 32 GB" aria-label="Add to cart: &ldquo;iFruit Watch Ultra&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Watch Ultra" data-price="9666">Add to cart</a></li>
+<li class="product type-product post-56 status-publish instock product_cat-smart-watch has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://arkaanhermawan.github.io/website-arkaan/product/i-fruit-watch-ultra-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" decoding="async" width="300" height="300" src="https://arkaanhermawan.github.io/website-arkaan/wp-content/uploads/2024/01/13.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><h2 class="woocommerce-loop-product__title">iFruit Watch Ultra 2</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">Rp</span>15.999</bdi></span></span>
+</a><a href="https://arkaanhermawan.github.io/website-arkaan/product/i-fruit-watch-ultra-2/?add-to-cart=56" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="56" data-product_sku="iFruit Watch Ultra 2 Titanium 32 GB" aria-label="Add to cart: &ldquo;iFruit Watch Ultra 2&rdquo;" aria-describedby="" rel="nofollow" data-product_name="iFruit Watch Ultra 2" data-price="15999">Add to cart</a></li>
+</ul>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://arkaanhermawan.github.io/website-arkaan/2024/01/11/smart-watch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
